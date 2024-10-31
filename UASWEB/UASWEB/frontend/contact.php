@@ -79,12 +79,12 @@ Author URL: http://w3layouts.com
           <!--//search-right-->
           <!-- author -->
           <div class="header-author d-flex ml-lg-4 pl-2 mt-lg-0 mt-3">
-            <a class="img-circle img-circle-sm" href="#author">
-              <img src="assets/images/author.jpg" class="img-fluid" alt="...">
+            <a class="img-circle img-circle-sm" href="#dirisaya">
+              <img src="assets/images/dirisaya.jpg" class="img-fluid" alt="...">
             </a>
             <div class="align-self ml-3">
               <a href="#author">
-                <h5>Alexander</h5>
+                <h5>Kanisius Yossa</h5>
               </a>
               <span>Blog Writer</span>
             </div>

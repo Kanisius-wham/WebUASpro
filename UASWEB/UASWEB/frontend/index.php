@@ -26,7 +26,7 @@ Author URL: http://w3layouts.com
         <nav class="navbar navbar-expand-lg navbar-light fill px-lg-0 py-0 px-3">
             <div class="container">
                 <a class="navbar-brand" href="index.php">
-                    <span class="fa fa-pencil-square-o"></span> Web Programming Blog</a>
+                    <span class="fa fa-pencil-square-o"></span> GEN Z Post</a>
                 <!-- if logo is image enable this   
                         <a class="navbar-brand" href="#index.html">
                             <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
